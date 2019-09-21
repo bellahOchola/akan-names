@@ -18,15 +18,15 @@ https://bellahochola.github.io/akan-names/
 * Enter Date of the month you were born in eg 20 input example 20 output example 20
 * Select gender Input example male output male
 * Submit. Input example, the program compares the inputs with the conditions set for the inputs eg if No input field is empty, the program executes else an alert to enter valid deatils.
-* 0 < Date >= 31.
-* 0 < Month >= 12
-* Gender Male or Female. 
+    * 0 < Date >= 31.
+    * 0 < Month >= 12
+    * Gender Male or Female. 
 * True value is output. Output example: Your akan name is Kwasi for male and Adwoa for females.
 Example
-year input -- 2019
-month input -- 7
-date input -- 14
-gender -- female selected, Expected output is Your akan-name is Akosua
+    year input -- 2019
+    month input -- 7
+    date input -- 14
+    gender -- female selected, Expected output is Your akan-name is Akosua
 ## Technologies Used
 In this repo I only used HTML and CSS plus some Javascript but in depth. I was also able to use the boostrap framework.
 ## Support and contact details
