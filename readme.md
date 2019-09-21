@@ -1,6 +1,6 @@
 # Akan-name Application.
 #### The appplication is returns users birth day name , 21/09/2019
-#### By Christabel Ochola
+#### bellahOchola
 ## Description
 This Application takes user input that is year, month, day of birth and gender. It then calculates the users day of birth and assigns it a given akan-name based on their gender. This application incoporates three languages that is javascript, HTML/CSS and a little bit of the bootstrap framework. Currently I am a software engineering student at Moringa School who can comfortably design UIs and small apllications.
 ## Setup/Installation Requirements
