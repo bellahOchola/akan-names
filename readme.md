@@ -28,7 +28,10 @@ Example
     date input -- 14
     gender -- female selected, Expected output is Your akan-name is Akosua
 ## Technologies Used
-In this repo I only used HTML and CSS plus some Javascript but in depth. I was also able to use the boostrap framework.
+* HTML
+* CSS
+* Javascript
+* Bootstrap
 ## Support and contact details
 If in any case you come across any isssues when using this applicatin, kindly contact me. Incase of any contributions too just reach out @ [bellahkenya@gmail.com]
 ### License
