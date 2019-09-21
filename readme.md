@@ -10,6 +10,10 @@ This Application takes user input that is year, month, day of birth and gender. 
 * clone this repo
 * to your local pc 
 You can therefore be able to install it to your pc and save it there.You can easily access it from there.
+## Live page
+https://bellahochola.github.io/akan-names/
+## BDD
+
 ## Technologies Used
 In this repo I only used HTML and CSS plus some Javascript but in depth. I was also able to use the boostrap framework.
 ## Support and contact details
