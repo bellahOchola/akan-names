@@ -1,21 +1,30 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>akan</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <form>
-        <input id="cent" type="text" name="cent">Century<br>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>akan</title>
+        <link rel="stylesheet" href="styles.css">
         
-
-    </form>
-
-    
-    <script type="text/javascript" href="script.js"></script>
-    
-</body>
+        <script type="text/javascript" src="script.js"></script>
+    </head>
+    <body>
+        <!-- <p id="imp"></p> -->
+        <form name="myForm" onsubmit="compile()" >
+            <!-- Century<br>
+            <input id="cent" type="text" name="century"><br><br> -->
+            Year<br>
+            <input name="yr" type="text"><br><br>
+            Month<br>
+            <input name="mth" type="text"><br><br>
+            Day<br>
+            <input name="dat" type="text"><br><br>
+            Gender<br>
+            <input name="gender" type="radio"name="female" value="female">Female<br>
+            <input name="gender" type="radio"name="male" value="male">Male<br><br>
+            <input type="button" value="Submit" onclick="compile()">
+        </form>
+        <p id="imp"> this is </p>
+    </body>
 </html>
