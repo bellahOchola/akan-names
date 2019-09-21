@@ -1,5 +1,9 @@
+body{
+    font-family: 'Chilanka', cursive;
+}
+
 .main{
-    background-color: rgb(190, 154, 154);
+    background-color:#C0C0C0;
     width:800px;
     height:550px;
     margin-left:250px;
