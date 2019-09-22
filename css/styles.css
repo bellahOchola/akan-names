@@ -13,6 +13,9 @@ body{
     padding:20px;
     text-align: center;
     color:white;
+    /* display:flex;
+    flex-direction: column;
+    justify-content: center; */
 }
 
 .in{
@@ -37,5 +40,6 @@ footer{
 #output{
     padding: 20px;
     text-transform: uppercase;
-    margin-bottom: 20px;
+    word-spacing: 7px;
+    color:yellow;
 }

@@ -9,7 +9,7 @@ var year, month, day, gn;
         findGender();
         calculateDay();
         // document.getElementById('output').textContent = compile("Your akan name is" + calculateDay()); 
-        document.getElementById("output").innerHTML = ("Your Akan-name is " + calculateDay() + " !!");
+        document.getElementById("output").innerHTML = ("Hello.... Your Akan-name is " + calculateDay() + " !!");
 }
 
 function validate(){
