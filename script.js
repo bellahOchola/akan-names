@@ -7,9 +7,11 @@ var year, month, day, gn;
     function compile(){
         validate();
         findGender();
-        alert("Your Akan name is " +calculateDay());
+        calculateDay();
+        // document.getElementById('output').textContent = compile("Your akan name is" + calculateDay()); 
+        document.getElementById("output").innerHTML = ("Your Akan-name is " + calculateDay() + " !!");
 }
-   
+
 function validate(){
     var year= document.forms["myForm"]["yr"].value;
     var month= document.forms["myForm"]["mth"].value;

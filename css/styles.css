@@ -34,3 +34,8 @@ footer{
     color: white;
 }
 
+#output{
+    padding: 20px;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
